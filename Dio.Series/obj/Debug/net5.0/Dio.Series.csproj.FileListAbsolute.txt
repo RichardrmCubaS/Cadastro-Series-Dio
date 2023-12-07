@@ -1,0 +1,16 @@
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+D:\Formaçao\ZCursos\Cursos Novos\Iniciados\DIO DotNet criando um APP simples de cadastro de séries em .NET\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
