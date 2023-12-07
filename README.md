@@ -1,4 +1,4 @@
-# Dio.Series
+# Cadastro-Series-Dio
 Criando um APP simples de cadastro de Séries em .NET (C#)
 Tarefa do C# do BootCamp da DIO sobre .Net
 
